@@ -3,9 +3,9 @@ module.exports = {
   appstore_link         : "https://imedadel.me",                                  // Enter App Store URL.
   playstore_link        : "https://imedadel.me",                                  // Enter Google Play Store URL.
   google_analytics_ID   : "UA-47311644-5",                                        // Enter Google Analytics ID or ""
-  presskit_download_link: "https://imedadel.me",                                  // Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+  presskit_download_link: "https://buslimorental.com/press.zip",                                  // Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
   video_or_screenshot   : "screenshot",                                           // "screenshot" or "video"
-  app_url               : "https://agalp.imedadel.me",                            // Domain of your website without path_prefix.
+  app_url               : "app.buslimorental.com",                            // Domain of your website without path_prefix.
   path_prefix           : "/",                                                    // Prefixes all links. For cases when deployed to example.github.io/automatic-gatsbyjs-app-landing-page/.
   app_name              : "AGALP",
   app_price             : "Free",
